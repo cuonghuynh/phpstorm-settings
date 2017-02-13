@@ -930,7 +930,7 @@
     </option>
     <option name="LINE_FULL_COVERAGE">
       <value>
-        <option name="BACKGROUND" value="1fc700" />
+        <option name="BACKGROUND" value="ccffcc" />
         <option name="FONT_TYPE" value="1" />
       </value>
     </option>
