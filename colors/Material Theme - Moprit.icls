@@ -943,6 +943,7 @@
     </option>
     <option name="LINE_PARTIAL_COVERAGE">
       <value>
+        <option name="BACKGROUND" value="f7ffda" />
         <option name="FONT_TYPE" value="1" />
       </value>
     </option>
