@@ -5,18 +5,10 @@
     <option name="EDITOR_FONT_SIZE" value="13" />
   </font>
   <font>
-    <option name="EDITOR_FONT_NAME" value="Source Code Pro" />
-    <option name="EDITOR_FONT_SIZE" value="13" />
-  </font>
-  <console-font>
-    <option name="EDITOR_FONT_NAME" value="Fira Code" />
-    <option name="EDITOR_FONT_SIZE" value="13" />
-  </console-font>
-  <console-font>
     <option name="EDITOR_FONT_NAME" value="Menlo" />
     <option name="EDITOR_FONT_SIZE" value="13" />
-  </console-font>
-  <option name="CONSOLE_LIGATURES" value="true" />
+  </font>
+  <option name="EDITOR_LIGATURES" value="true" />
   <option name="CONSOLE_LINE_SPACING" value="1.6" />
   <colors>
     <option name="ADDED_LINES_COLOR" value="212c32" />
