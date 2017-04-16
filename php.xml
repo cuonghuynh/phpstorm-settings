@@ -9,13 +9,6 @@
       <PhpCSConfiguration standards="MySource;PEAR;PHPCS;PSR1;PSR2;Squiz;Zend" tool_path="/usr/local/bin/phpcs" />
     </phpcs_settings>
   </component>
-  <component name="PhpInterpreters">
-    <interpreters>
-      <interpreter home="vagrant:///Users/cuonghuynh/Code/vm/sabu/deployment/usr/bin/php" id="62030a62-def1-4779-8b38-8100a974407f" name="Remote PHP 7" debugger_id="php.debugger.XDebug">
-        <remote_data VAGRANT_FOLDER="$USER_HOME$/Code/vm/sabu/deployment" INTERPRETER_PATH="/usr/bin/php" HELPERS_PATH="/home/vagrant/.phpstorm_helpers" INITIALIZED="false" VALID="true" />
-      </interpreter>
-    </interpreters>
-  </component>
   <component name="PhpUnit">
     <phpunit_settings>
       <phpunit_by_interpreter interpreter_id="62030a62-def1-4779-8b38-8100a974407f" load_method="CUSTOM_LOADER" custom_loader_path="/var/www/virt.sabu.de/vendor/autoload.php" />
