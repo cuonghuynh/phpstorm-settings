@@ -10,6 +10,7 @@
     <option name="compactSidebar" value="true" />
     <option name="statusBarTheme" value="false" />
     <option name="tabsHeight" value="50" />
+    <option name="isCompactStatusBar" value="true" />
     <option name="defaultBackground" value="$USER_HOME$/Downloads/iron-man-3-black-and-white-photo-02-0002..jpg" />
   </component>
 </application>
