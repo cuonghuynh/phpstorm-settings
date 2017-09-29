@@ -1,22 +1,4 @@
 <application>
-  <component name="PhpTestFrameworkSettings">
-    <test_tools>
-      <tool tool_name="Codeception">
-        <settings>
-          <configurations>
-            <configuration_by_sdk interpreter_id="ccc7ed4e-eac2-4506-bfcd-6e3d06656281" executable_path="/var/www/virt.sabu.de/vendor/codeception/codeception/codecept" />
-          </configurations>
-        </settings>
-      </tool>
-      <tool tool_name="PHPSpec">
-        <settings>
-          <configurations>
-            <configuration_by_sdk interpreter_id="ccc7ed4e-eac2-4506-bfcd-6e3d06656281" />
-          </configurations>
-        </settings>
-      </tool>
-    </test_tools>
-  </component>
   <component name="PhpTestFrameworkVersionCache">
     <tools_cache>
       <tool tool_name="Codeception">

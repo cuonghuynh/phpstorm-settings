@@ -7,9 +7,6 @@
   </component>
   <component name="PhpInterpreters">
     <interpreters>
-      <interpreter home="vagrant:///Users/cuonghuynh/Code/shopmacher/sabu/deployment/usr/bin/php" id="ccc7ed4e-eac2-4506-bfcd-6e3d06656281" name="Sabu PHP 7" debugger_id="php.debugger.XDebug">
-        <remote_data VAGRANT_FOLDER="$USER_HOME$/Code/shopmacher/sabu/deployment" INTERPRETER_PATH="/usr/bin/php" HELPERS_PATH="/home/vagrant/.phpstorm_helpers" INITIALIZED="false" VALID="true" />
-      </interpreter>
       <interpreter home="/usr/local/Cellar/php71/7.1.4_16/bin/php" id="eb1df7a3-4cfc-4a73-807e-854e1535aeed" name="PHP 7.1" debugger_id="php.debugger.XDebug" />
     </interpreters>
   </component>
@@ -299,10 +296,5 @@
         </phpinfo>
       </interpreter>
     </phpInfoCache>
-  </component>
-  <component name="PhpUnit">
-    <phpunit_settings>
-      <phpunit_by_interpreter interpreter_id="ccc7ed4e-eac2-4506-bfcd-6e3d06656281" load_method="CUSTOM_LOADER" custom_loader_path="/var/www/virt.sabu.de/vendor/autoload.php" phpunit_phar_path="" />
-    </phpunit_settings>
   </component>
 </application>
