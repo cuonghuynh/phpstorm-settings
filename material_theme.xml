@@ -1,5 +1,6 @@
 <application>
   <component name="MaterialThemeConfig">
+    <option name="selectedTheme" value="PALENIGHT" />
     <option name="highlightColor" value="0fbb9a" />
     <option name="highlightColorEnabled" value="true" />
     <option name="highlightThickness" value="1" />
