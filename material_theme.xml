@@ -10,7 +10,6 @@
     <option name="wallpaper" value="$USER_HOME$/Downloads/music_wallapper.jpg" />
     <option name="statusBarTheme" value="false" />
     <option name="tabsHeight" value="50" />
-    <option name="isCompactStatusBar" value="true" />
     <option name="defaultBackground" value="$USER_HOME$/Downloads/music_wallapper.jpg" />
   </component>
 </application>
