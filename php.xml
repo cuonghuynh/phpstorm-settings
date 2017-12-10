@@ -5,11 +5,6 @@
       <phpcs_by_interpreter interpreter_id="ccc7ed4e-eac2-4506-bfcd-6e3d06656281" standards="MySource;PEAR;PHPCS;PSR1;PSR2;Squiz;Zend" tool_path="/var/www/virt.sabu.de/bin/phpcs" />
     </phpcs_settings>
   </component>
-  <component name="PhpInterpreters">
-    <interpreters>
-      <interpreter home="/usr/local/Cellar/php71/7.1.4_16/bin/php" id="eb1df7a3-4cfc-4a73-807e-854e1535aeed" name="PHP 7.1" debugger_id="php.debugger.XDebug" />
-    </interpreters>
-  </component>
   <component name="PhpInterpretersPhpInfoCache">
     <phpInfoCache>
       <interpreter name="PHP 7.1">
