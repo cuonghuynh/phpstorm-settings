@@ -4,7 +4,7 @@
     <property name="created">2018-01-14T21:32:43</property>
     <property name="ide">PhpStorm</property>
     <property name="ideVersion">2017.3.2.0.0</property>
-    <property name="modified">2018-01-19T01:04:52</property>
+    <property name="modified">2018-01-19T23:16:20</property>
     <property name="originalScheme">Material Palenight</property>
   </metaInfo>
   <option name="LINE_SPACING" value="1.4" />
@@ -1022,6 +1022,43 @@
         <option name="FOREGROUND" value="89ddf7" />
         <option name="BACKGROUND" value="292d3e" />
         <option name="EFFECT_TYPE" value="5" />
+      </value>
+    </option>
+    <option name="HANDLEBARS.DATA_PREFIX">
+      <value>
+        <option name="FOREGROUND" value="eeffff" />
+        <option name="FONT_TYPE" value="2" />
+      </value>
+    </option>
+    <option name="HANDLEBARS.ESCAPE">
+      <value>
+        <option name="FOREGROUND" value="dc663c" />
+      </value>
+    </option>
+    <option name="HANDLEBARS.IDENTIFIERS">
+      <value>
+        <option name="FOREGROUND" value="eeffff" />
+        <option name="FONT_TYPE" value="2" />
+      </value>
+    </option>
+    <option name="HANDLEBARS.MUSTACHES">
+      <value>
+        <option name="FOREGROUND" value="dc663c" />
+      </value>
+    </option>
+    <option name="HANDLEBARS.OPERATORS">
+      <value>
+        <option name="FOREGROUND" value="dc663c" />
+      </value>
+    </option>
+    <option name="HANDLEBARS.STRINGS">
+      <value>
+        <option name="FOREGROUND" value="a5cc5d" />
+      </value>
+    </option>
+    <option name="HANDLEBARS.VALUES">
+      <value>
+        <option name="FOREGROUND" value="eeffff" />
       </value>
     </option>
     <option name="HOCON_BAD_CHARACTER">
