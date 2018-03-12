@@ -4,17 +4,17 @@
     <property name="created">2018-01-14T21:32:43</property>
     <property name="ide">PhpStorm</property>
     <property name="ideVersion">2017.3.2.0.0</property>
-    <property name="modified">2018-03-10T20:32:17</property>
+    <property name="modified">2018-03-13T00:04:29</property>
     <property name="originalScheme">Material Palenight</property>
   </metaInfo>
-  <option name="LINE_SPACING" value="1.4" />
+  <option name="LINE_SPACING" value="1.3" />
   <font>
     <option name="EDITOR_FONT_NAME" value="Operator Mono" />
     <option name="EDITOR_FONT_SIZE" value="13" />
   </font>
   <font>
     <option name="EDITOR_FONT_NAME" value="Monaco" />
-    <option name="EDITOR_FONT_SIZE" value="13" />
+    <option name="EDITOR_FONT_SIZE" value="14" />
   </font>
   <option name="EDITOR_LIGATURES" value="true" />
   <option name="CONSOLE_FONT_NAME" value="Menlo" />
@@ -2619,6 +2619,7 @@
     <option name="PHP_STRING">
       <value>
         <option name="FOREGROUND" value="c3e887" />
+        <option name="FONT_TYPE" value="2" />
       </value>
     </option>
     <option name="PHP_TAG">
@@ -2629,7 +2630,7 @@
     </option>
     <option name="PHP_VAR">
       <value>
-        <option name="FOREGROUND" value="fc4f64" />
+        <option name="FOREGROUND" value="929dc6" />
       </value>
     </option>
     <option name="PHP_VAR_VAR">
