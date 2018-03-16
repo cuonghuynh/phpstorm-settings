@@ -4,7 +4,7 @@
     <property name="created">2018-01-14T21:32:43</property>
     <property name="ide">PhpStorm</property>
     <property name="ideVersion">2017.3.2.0.0</property>
-    <property name="modified">2018-03-16T17:37:58</property>
+    <property name="modified">2018-03-16T19:55:46</property>
     <property name="originalScheme">Material Palenight</property>
   </metaInfo>
   <option name="LINE_SPACING" value="1.2" />
@@ -23,7 +23,7 @@
   <colors>
     <option name="ADDED_LINES_COLOR" value="c3e88d" />
     <option name="ANNOTATIONS_COLOR" value="fffbf7" />
-    <option name="CARET_COLOR" value="ffcc00" />
+    <option name="CARET_COLOR" value="7b48c1" />
     <option name="CARET_ROW_COLOR" value="232235" />
     <option name="CONSOLE_BACKGROUND_KEY" value="292d3e" />
     <option name="DELETED_LINES_COLOR" value="f07178" />
@@ -47,7 +47,7 @@
     <option name="FILESTATUS_UNKNOWN" value="f77669" />
     <option name="FILESTATUS_addedOutside" value="c3e88d" />
     <option name="FILESTATUS_modifiedOutside" value="82aaff" />
-    <option name="GUTTER_BACKGROUND" value="292d3e" />
+    <option name="GUTTER_BACKGROUND" value="242838" />
     <option name="INDENT_GUIDE" value="4e5579" />
     <option name="INFORMATION_HINT" value="292d3e" />
     <option name="LINE_NUMBERS_COLOR" value="3a3f58" />
@@ -61,8 +61,7 @@
     <option name="RIGHT_MARGIN_COLOR" value="444267" />
     <option name="SELECTED_INDENT_GUIDE" value="828ed5" />
     <option name="SELECTED_TEARLINE_COLOR" value="99b89d" />
-    <option name="SELECTION_BACKGROUND" value="32374d" />
-    <option name="SELECTION_FOREGROUND" value="fffbf7" />
+    <option name="SELECTION_BACKGROUND" value="403264" />
     <option name="SOFT_WRAP_SIGN_COLOR" value="4f6269" />
     <option name="TEARLINE_COLOR" value="444267" />
     <option name="VCS_ANNOTATIONS_COLOR_1" value="212c32" />
@@ -1404,6 +1403,11 @@
         <option name="FOREGROUND" value="908b25" />
       </value>
     </option>
+    <option name="MAGIC_MEMBER_ACCESS">
+      <value>
+        <option name="FOREGROUND" value="bec3c9" />
+      </value>
+    </option>
     <option name="MARKDOWN.AUTO_LINK">
       <value>
         <option name="FOREGROUND" value="ff355b" />
@@ -2467,12 +2471,12 @@
     </option>
     <option name="PHP_BRACES">
       <value>
-        <option name="FOREGROUND" value="89ddf7" />
+        <option name="FOREGROUND" value="bec3c9" />
       </value>
     </option>
     <option name="PHP_BRACKETS">
       <value>
-        <option name="FOREGROUND" value="89ddf7" />
+        <option name="FOREGROUND" value="bec3c9" />
       </value>
     </option>
     <option name="PHP_CLASS">
@@ -2482,7 +2486,7 @@
     </option>
     <option name="PHP_COMMA">
       <value>
-        <option name="FOREGROUND" value="89ddf7" />
+        <option name="FOREGROUND" value="bec3c9" />
       </value>
     </option>
     <option name="PHP_COMMENT">
@@ -2523,7 +2527,7 @@
     </option>
     <option name="PHP_FUNCTION">
       <value>
-        <option name="FOREGROUND" value="82aaff" />
+        <option name="FOREGROUND" value="6ba0ff" />
       </value>
     </option>
     <option name="PHP_FUNCTION_CALL">
@@ -2553,7 +2557,7 @@
     </option>
     <option name="PHP_INSTANCE_METHOD">
       <value>
-        <option name="FOREGROUND" value="82aaff" />
+        <option name="FOREGROUND" value="6ba0ff" />
       </value>
     </option>
     <option name="PHP_INTERFACE">
@@ -2563,7 +2567,7 @@
     </option>
     <option name="PHP_KEYWORD">
       <value>
-        <option name="FOREGROUND" value="c792ea" />
+        <option name="FOREGROUND" value="cb82e7" />
         <option name="FONT_TYPE" value="2" />
       </value>
     </option>
@@ -2589,7 +2593,7 @@
     </option>
     <option name="PHP_PARENTHESES">
       <value>
-        <option name="FOREGROUND" value="89ddf7" />
+        <option name="FOREGROUND" value="bec3c9" />
       </value>
     </option>
     <option name="PHP_PREDEFINED SYMBOL">
@@ -2602,7 +2606,7 @@
     </option>
     <option name="PHP_SEMICOLON">
       <value>
-        <option name="FOREGROUND" value="89ddf7" />
+        <option name="FOREGROUND" value="bec3c9" />
       </value>
     </option>
     <option name="PHP_STATIC_FIELD">
@@ -2613,7 +2617,7 @@
     </option>
     <option name="PHP_STATIC_METHOD">
       <value>
-        <option name="FOREGROUND" value="82aaff" />
+        <option name="FOREGROUND" value="6ba0ff" />
       </value>
     </option>
     <option name="PHP_STRING">
@@ -3576,7 +3580,7 @@
     <option name="TEXT">
       <value>
         <option name="FOREGROUND" value="959dcb" />
-        <option name="BACKGROUND" value="292d3e" />
+        <option name="BACKGROUND" value="242838" />
         <option name="EFFECT_TYPE" value="5" />
       </value>
     </option>
