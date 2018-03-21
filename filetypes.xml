@@ -5,7 +5,6 @@
       <mapping pattern=".gitattribute" type="PLAIN_TEXT" />
       <mapping pattern="BranchDetailListener" type="PLAIN_TEXT" />
       <mapping ext="5" type="PLAIN_TEXT" />
-      <mapping ext="xlf" type="PLAIN_TEXT" />
       <mapping pattern="*.scss.liquid" type="SCSS" />
       <mapping ext="liquid" type="Twig" />
       <mapping pattern=".gitignore_global" type="Git file" />
