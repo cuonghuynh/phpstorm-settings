@@ -33,6 +33,9 @@
       <mask>*.</mask>
       <mask>*.h</mask>
       <mask>*.html</mask>
+      <mask>.</mask>
+      <mask>.j</mask>
+      <mask>.js</mask>
     </recentFileMasks>
   </component>
 </application>
