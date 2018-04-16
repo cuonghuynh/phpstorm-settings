@@ -4,6 +4,7 @@
       <mapping pattern="*.js.liquid" type="JavaScript" />
       <mapping pattern=".gitattribute" type="PLAIN_TEXT" />
       <mapping pattern="BranchDetailListener" type="PLAIN_TEXT" />
+      <mapping ext="bk" type="PLAIN_TEXT" />
       <mapping ext="5" type="PLAIN_TEXT" />
       <mapping pattern="*.scss.liquid" type="SCSS" />
       <mapping ext="liquid" type="Twig" />
