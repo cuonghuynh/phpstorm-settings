@@ -18,14 +18,11 @@
       <mask>*.le</mask>
       <mask>*.les</mask>
       <mask>*.less</mask>
-      <mask>j</mask>
-      <mask>js</mask>
       <mask>*</mask>
       <mask>*.twig</mask>
       <mask>*.twi</mask>
       <mask>*.tw</mask>
       <mask>*.t</mask>
-      <mask>*.js</mask>
       <mask>*.</mask>
       <mask>*.h</mask>
       <mask>*.html</mask>
@@ -36,6 +33,9 @@
       <mask>.liq</mask>
       <mask>.liqui</mask>
       <mask>.liquid</mask>
+      <mask>j</mask>
+      <mask>js</mask>
+      <mask>*.js</mask>
     </recentFileMasks>
   </component>
 </application>
