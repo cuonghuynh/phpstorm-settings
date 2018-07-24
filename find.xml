@@ -6,7 +6,6 @@
     <option name="LOCAL_CASE_SENSITIVE_SEARCH" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
     <recentFileMasks>
-      <mask>*.ym</mask>
       <mask>*.y</mask>
       <mask>*.le</mask>
       <mask>*.les</mask>
@@ -36,6 +35,7 @@
       <mask>*.html.twi</mask>
       <mask>*.html.twig</mask>
       <mask>*.php</mask>
+      <mask>*.yml</mask>
     </recentFileMasks>
   </component>
 </application>
