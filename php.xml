@@ -6,7 +6,6 @@
     <phpcs_settings_migrated />
     <phpcs_settings>
       <PhpCSConfiguration standards="MySource;PEAR;PSR1;PSR2;Squiz;Zend" tool_path="$USER_HOME$/Code/shopmacher/sabu/bin/phpcs" />
-      <phpcs_by_interpreter interpreter_id="ccc7ed4e-eac2-4506-bfcd-6e3d06656281" standards="MySource;PEAR;PHPCS;PSR1;PSR2;Squiz;Zend" tool_path="/var/www/virt.sabu.de/bin/phpcs" />
     </phpcs_settings>
   </component>
   <component name="PhpSmartKeysConfiguration">
