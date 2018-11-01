@@ -5,6 +5,7 @@
       <mapping pattern=".gitkeep" type="Git file" />
       <mapping pattern="*.js.liquid" type="JavaScript" />
       <mapping pattern="BranchDetailListener" type="PLAIN_TEXT" />
+      <mapping pattern="RedirectIfNotAuthenticated" type="PLAIN_TEXT" />
       <mapping pattern=".gitattribute" type="PLAIN_TEXT" />
       <mapping ext="bk" type="PLAIN_TEXT" />
       <mapping ext="properties" type="PLAIN_TEXT" />
