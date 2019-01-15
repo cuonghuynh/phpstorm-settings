@@ -14,6 +14,7 @@
       <mapping pattern="*.js.liquid" type="JavaScript" />
       <mapping pattern="RedirectIfNotAuthenticated" type="PLAIN_TEXT" />
       <mapping pattern=".gitattribute" type="PLAIN_TEXT" />
+      <mapping pattern="channel-sale-updater" type="PLAIN_TEXT" />
       <mapping pattern="BranchDetailListener" type="PLAIN_TEXT" />
       <mapping ext="bk" type="PLAIN_TEXT" />
       <mapping ext="properties" type="PLAIN_TEXT" />
