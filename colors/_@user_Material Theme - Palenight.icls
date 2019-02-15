@@ -4,7 +4,7 @@
     <property name="created">2017-06-21T09:37:24</property>
     <property name="ide">PhpStorm</property>
     <property name="ideVersion">2017.1.2.0.0</property>
-    <property name="modified">2019-01-22T15:43:29</property>
+    <property name="modified">2019-02-15T14:45:17</property>
     <property name="originalScheme">Material Theme - Palenight</property>
   </metaInfo>
   <option name="LINE_SPACING" value="1.6" />
@@ -1514,7 +1514,7 @@
     </option>
     <option name="PHP_DOC_TAG">
       <value>
-        <option name="FOREGROUND" value="c792ea" />
+        <option name="FOREGROUND" value="ea9173" />
         <option name="EFFECT_TYPE" value="1" />
       </value>
     </option>
@@ -1530,7 +1530,7 @@
     </option>
     <option name="PHP_IDENTIFIER">
       <value>
-        <option name="FOREGROUND" value="ffcb6b" />
+        <option name="FOREGROUND" value="f3c878" />
       </value>
     </option>
     <option name="PHP_INSTANCE_FIELD">
@@ -1597,7 +1597,7 @@
     </option>
     <option name="PHP_VAR">
       <value>
-        <option name="FOREGROUND" value="ffffff" />
+        <option name="FOREGROUND" value="feffff" />
       </value>
     </option>
     <option name="PHP_VAR_VAR">
