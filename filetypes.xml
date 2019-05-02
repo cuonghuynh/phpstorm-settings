@@ -19,6 +19,7 @@
       <mapping ext="bk" type="PLAIN_TEXT" />
       <mapping ext="scsss" type="PLAIN_TEXT" />
       <mapping ext="properties" type="PLAIN_TEXT" />
+      <mapping ext="old" type="PLAIN_TEXT" />
       <mapping ext="5" type="PLAIN_TEXT" />
       <mapping ext="xlf" type="PLAIN_TEXT" />
       <mapping pattern="*.scss.liquid" type="SCSS" />
