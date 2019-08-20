@@ -4,7 +4,7 @@
     <property name="created">2017-06-21T09:37:24</property>
     <property name="ide">PhpStorm</property>
     <property name="ideVersion">2017.1.2.0.0</property>
-    <property name="modified">2019-04-22T14:10:02</property>
+    <property name="modified">2019-08-21T00:09:17</property>
     <property name="originalScheme">Material Theme - Palenight</property>
   </metaInfo>
   <option name="LINE_SPACING" value="1.8" />
@@ -55,7 +55,7 @@
     <option name="FILESTATUS_SWITCHED" value="8978f" />
     <option name="FILESTATUS_UNKNOWN" value="f77669" />
     <option name="FILESTATUS_modifiedOutside" value="80cbc4" />
-    <option name="GUTTER_BACKGROUND" value="41527" />
+    <option name="GUTTER_BACKGROUND" value="1a1a1a" />
     <option name="INDENT_GUIDE" value="4e5579" />
     <option name="INFORMATION_HINT" value="292d3e" />
     <option name="LINE_NUMBERS_COLOR" value="3a3f58" />
@@ -2071,8 +2071,8 @@
     </option>
     <option name="TEXT">
       <value>
-        <option name="FOREGROUND" value="faf3fa" />
-        <option name="BACKGROUND" value="41527" />
+        <option name="FOREGROUND" value="ffffff" />
+        <option name="BACKGROUND" value="212121" />
         <option name="EFFECT_TYPE" value="5" />
       </value>
     </option>
