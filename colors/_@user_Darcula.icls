@@ -1,12 +1,24 @@
 <scheme name="_@user_Darcula" version="142" parent_scheme="Darcula">
+  <option name="FONT_SCALE" value="1.0" />
   <metaInfo>
     <property name="created">2017-12-08T14:58:48</property>
     <property name="ide">PhpStorm</property>
     <property name="ideVersion">2017.3.0.0</property>
-    <property name="modified">2019-12-23T16:52:16</property>
+    <property name="modified">2019-12-23T17:16:24</property>
     <property name="originalScheme">Darcula</property>
   </metaInfo>
+  <console-font>
+    <option name="EDITOR_FONT_NAME" value="Operator Mono" />
+    <option name="EDITOR_FONT_SIZE" value="14" />
+  </console-font>
+  <console-font>
+    <option name="EDITOR_FONT_NAME" value="Fira Code" />
+    <option name="EDITOR_FONT_SIZE" value="13" />
+  </console-font>
+  <option name="CONSOLE_LIGATURES" value="true" />
+  <option name="CONSOLE_LINE_SPACING" value="1.4" />
   <colors>
+    <option name="CONSOLE_BACKGROUND_KEY" value="0" />
     <option name="FILESTATUS_ADDED" value="c3e88d" />
     <option name="FILESTATUS_COPIED" value="c3e88d" />
     <option name="FILESTATUS_DELETED" value="808080" />
@@ -28,4 +40,23 @@
     <option name="FILESTATUS_addedOutside" value="c3e88d" />
     <option name="FILESTATUS_modifiedOutside" value="82aaff" />
   </colors>
+  <attributes>
+    <option name="HTML_CODE">
+      <value />
+    </option>
+    <option name="KOTLIN_FUNCTION_LITERAL_BRACES_AND_ARROW">
+      <value>
+        <option name="FONT_TYPE" value="1" />
+      </value>
+    </option>
+    <option name="KOTLIN_LABEL">
+      <value />
+    </option>
+    <option name="MATCHED_BRACE_ATTRIBUTES">
+      <value>
+        <option name="BACKGROUND" value="3b514d" />
+        <option name="FONT_TYPE" value="1" />
+      </value>
+    </option>
+  </attributes>
 </scheme>
