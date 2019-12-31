@@ -1,8 +1,6 @@
 <application>
   <component name="FileTypeManager" version="17">
     <extensionMap>
-      <mapping pattern="*.js.flow" type="Flow" />
-      <mapping pattern="*.js.flow" type="Flow" />
       <mapping pattern="*.js.liquid" type="JavaScript" />
       <mapping pattern="RedirectIfNotAuthenticated" type="PLAIN_TEXT" />
       <mapping pattern="dynamic_inventory" type="PLAIN_TEXT" />
