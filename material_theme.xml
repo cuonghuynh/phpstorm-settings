@@ -10,9 +10,9 @@
     <option name="indicatorStyle" value="Dot" />
     <option name="rightTreeIndent" value="6" />
     <option name="settingsSelectedTab" value="4" />
-    <option name="accentColor" value="ffd866" />
+    <option name="accentColor" value="ff79c5" />
     <option name="highlightColor" value="80cbc4" />
-    <option name="selectedTheme" value="MONOKAI" />
+    <option name="selectedTheme" value="DRACULA" />
     <option name="userId" value="-3f3b1c99:164e9c083d6:-7fff" />
     <option name="version" value="4.11.5" />
   </component>
