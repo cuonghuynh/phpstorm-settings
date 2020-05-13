@@ -2,12 +2,12 @@
   <component name="FileTypeManager" version="17">
     <extensionMap>
       <mapping pattern="*.js.liquid" type="JavaScript" />
-      <mapping pattern="RedirectIfNotAuthenticated" type="PLAIN_TEXT" />
       <mapping pattern="authorized_keys" type="PLAIN_TEXT" />
+      <mapping pattern="RedirectIfNotAuthenticated" type="PLAIN_TEXT" />
       <mapping pattern="dynamic_inventory" type="PLAIN_TEXT" />
       <mapping pattern=".gitattribute" type="PLAIN_TEXT" />
-      <mapping pattern="known_hosts" type="PLAIN_TEXT" />
       <mapping pattern=".gitkeep" type="PLAIN_TEXT" />
+      <mapping pattern="known_hosts" type="PLAIN_TEXT" />
       <mapping pattern="BranchDetailListener" type="PLAIN_TEXT" />
       <mapping pattern="static_inventory" type="PLAIN_TEXT" />
       <mapping pattern="channel-sale-updater" type="PLAIN_TEXT" />
