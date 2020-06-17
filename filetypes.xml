@@ -3,6 +3,7 @@
     <extensionMap>
       <mapping pattern="*.js.liquid" type="JavaScript" />
       <mapping pattern="authorized_keys" type="PLAIN_TEXT" />
+      <mapping pattern="id_rsa" type="PLAIN_TEXT" />
       <mapping pattern="RedirectIfNotAuthenticated" type="PLAIN_TEXT" />
       <mapping pattern="dynamic_inventory" type="PLAIN_TEXT" />
       <mapping pattern=".gitattribute" type="PLAIN_TEXT" />
