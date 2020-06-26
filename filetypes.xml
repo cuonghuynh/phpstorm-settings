@@ -21,6 +21,7 @@
       <mapping ext="5" type="PLAIN_TEXT" />
       <mapping ext="xlf" type="PLAIN_TEXT" />
       <mapping pattern="*.scss.liquid" type="SCSS" />
+      <mapping pattern="mount-bucket" type="Shell Script" />
       <mapping ext="liquid" type="Twig" />
       <mapping pattern=".gitignore_global" type="Git file" />
       <mapping pattern=".gitkeep" type="Git file" />
