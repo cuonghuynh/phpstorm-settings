@@ -4,7 +4,7 @@
     <property name="created">2020-05-05T18:08:16</property>
     <property name="ide">PhpStorm</property>
     <property name="ideVersion">2020.1.0.0</property>
-    <property name="modified">2020-07-18T18:56:22</property>
+    <property name="modified">2020-07-19T12:15:48</property>
     <property name="originalScheme">Material Darker</property>
   </metaInfo>
   <option name="LINE_SPACING" value="1.4" />
@@ -2891,7 +2891,6 @@
     <option name="PHP_KEYWORD">
       <value>
         <option name="FOREGROUND" value="c792ea" />
-        <option name="FONT_TYPE" value="2" />
       </value>
     </option>
     <option name="PHP_NUMBER">
@@ -2916,7 +2915,6 @@
     <option name="PHP_STATIC_FIELD">
       <value>
         <option name="FOREGROUND" value="eeffff" />
-        <option name="FONT_TYPE" value="2" />
       </value>
     </option>
     <option name="PHP_STATIC_METHOD">
