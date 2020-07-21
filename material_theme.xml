@@ -2,11 +2,13 @@
   <component name="MaterialThemeConfig">
     <option name="compactStatusBar" value="true" />
     <option name="compactTables" value="true" />
+    <option name="contrastMode" value="true" />
     <option name="highContrast" value="true" />
     <option name="allowDataCollection" value="true" />
     <option name="compactDropdowns" value="true" />
     <option name="isCompactStatusBar" value="true" />
     <option name="isCompactTables" value="true" />
+    <option name="isContrastMode" value="true" />
     <option name="isHighContrast" value="true" />
     <option name="isWizardShown" value="true" />
     <option name="pristineConfig" value="false" />
@@ -15,7 +17,7 @@
     <option name="settingsSelectedTab" value="4" />
     <option name="accentColor" value="ff9800" />
     <option name="highlightColor" value="80cbc4" />
-    <option name="selectedTheme" value="DARKER" />
+    <option name="selectedTheme" value="CUSTOM" />
     <option name="userId" value="-3f3b1c99:164e9c083d6:-7fff" />
     <option name="version" value="5.2.0" />
   </component>
