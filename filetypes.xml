@@ -1,7 +1,6 @@
 <application>
   <component name="FileTypeManager" version="17">
     <extensionMap>
-      <mapping ext="21-1000027_db_1__2020-08-10_23-22-59" type="CSV" />
       <mapping pattern="*.js.liquid" type="JavaScript" />
       <mapping pattern="authorized_keys" type="PLAIN_TEXT" />
       <mapping pattern="RedirectIfNotAuthenticated" type="PLAIN_TEXT" />
